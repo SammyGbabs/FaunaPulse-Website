@@ -73,14 +73,14 @@ nav {
 /* Hero Section */
 .hero-section {
   width: 100%;
-  height: 80vh;
+  height: 100vh;
   background-image: url("/Public /hero.jpeg");
   background-size: cover;
   background-position: center;
 }
 
 .hero {
-  padding: 14rem 5% 4rem;
+  padding: 12rem 5% 4rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
