@@ -35,7 +35,7 @@ body {
 /* Header & Navigation */
 header {
   padding: 1rem 5%;
-  background-image: url("/public/images/hero.jpeg");
+  background-image: url("/images/hero.jpeg");
   position: fixed;
   width: 100%;
   top: 0;
@@ -91,7 +91,7 @@ nav {
 
 .request-demo {
   color: var(--text-color);
-  background-image: url("/public/images/hero.jpeg");
+  background-image: url("/images/hero.jpeg");
   border: 1px solid red;
   padding: 0.5rem 1rem;
   border-radius: 18px;
@@ -102,7 +102,7 @@ nav {
 .hero-section {
   width: 100%;
   min-height: 100vh;
-  background-image: url("/public/images/hero.jpeg");
+  background-image: url("/images/hero.jpeg");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -529,7 +529,7 @@ p {
 
 /* Footer */
 footer {
-  background: url("/public/images/footer.jpeg"), var(--secondary-color);
+  background: url("/images/footer.jpeg"), var(--secondary-color);
   background-size: cover;
   color: white;
   padding: 4rem 5%;
