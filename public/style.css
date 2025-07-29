@@ -842,13 +842,13 @@ footer::before {
   }
 
   .bg {
-    padding: 3rem 0;
+    padding: 4rem 1rem;
     min-height: auto;
   }
 
   .signup-form {
-    width: 95%;
-    padding: 1.5rem;
+    width: 98%;
+    padding: 2rem;
     margin: 0 auto 2rem;
   }
 
@@ -916,12 +916,12 @@ footer::before {
   }
 
   .bg {
-    padding: 2rem 0;
+    padding: 3rem 0.5rem;
   }
 
   .signup-form {
-    width: 98%;
-    padding: 1rem;
+    width: 100%;
+    padding: 1.5rem;
     margin: 0 auto 1rem;
   }
 
